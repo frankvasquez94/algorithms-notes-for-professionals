@@ -16,4 +16,4 @@ fundamental. The algorithmic problem known as sorting is defined as follows: [Sk
 An instance of sorting might be an array of strings, such as { Haskell, Emacs } or a sequence of numbers such as
 { 154, 245, 1337 }.
 
-# Algorithm name
+# Fizz buzz
